@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Skill
+comment1.params=id\ name\ category\ description
+comment1.target=Skill(int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=name\ category\ description
+comment2.target=Skill(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=int\ getId()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=java.lang.String\ getCategory()
+comment6.params=
+comment6.target=java.lang.String\ getDescription()
+comment7.params=id
+comment7.target=void\ setId(int)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
